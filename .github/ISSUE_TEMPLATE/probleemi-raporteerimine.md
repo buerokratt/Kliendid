@@ -7,4 +7,13 @@ assignees: ''
 
 ---
 
+**Probleemi kirjeldus:**
 
+
+**Oodatav tulemusr:**
+
+
+**Ekraanipilt:**
+
+
+**Lisa informatsioon:**
