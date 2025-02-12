@@ -10,7 +10,7 @@ assignees: ''
 **Probleemi kirjeldus:**
 
 
-**Oodatav tulemusr:**
+**Oodatav tulemus:**
 
 
 **Ekraanipilt:**
